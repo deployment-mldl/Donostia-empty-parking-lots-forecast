@@ -1,4 +1,4 @@
-# Donostia empty parking lots forecast
+# Donostia empty parking lots forecast project
 
 ## Objective
 The final goal of this repo is to build an MLOps pipeline for a model that predicts the number of empty parking lots in Donostia. 
